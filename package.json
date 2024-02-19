@@ -18,7 +18,11 @@
   },
   "homepage": "https://github.com/peretarrida13/ChatAppSocket#readme",
   "dependencies": {
+    "dotenv": "^16.4.4",
     "express": "^4.18.2",
     "socket.io": "^4.7.4"
+  },
+  "engines": {
+    "node": "21.6.2"
   }
 }
